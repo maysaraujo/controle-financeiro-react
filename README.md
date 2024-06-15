@@ -1,4 +1,4 @@
-<h1 text-align="center">🐕 Controle Financeiro</h1>
+<h1 text-align="center"> Controle Financeiro</h1>
 
 ## :memo: Descrição
 
@@ -8,7 +8,7 @@ Uma aplicação de controle financeiro, desenvolvido para acompanhar as receitas
 
 - Adicionar receitas e despesas;
 - Calcular;
-- Excluir receitas e despesas;
+- Excluir receitas e despesas.
 
 ## :wrench: Tecnologias utilizadas
 
@@ -21,7 +21,7 @@ Para rodar o repositório é necessário clonar o mesmo e dar os seguintes coman
 
 ```
 Clone esse repositório
-$ git clone https://github.com/maysaraujo/dogs.git
+$ git clone https://github.com/maysaraujo/controle-financeiro-react.git
 
 Entre na pasta
 $ cd controle-financeiro-react
