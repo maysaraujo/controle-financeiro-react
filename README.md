@@ -2,7 +2,7 @@
 
 ## :memo: Descrição
 
-Uma aplicação de controle financeiro, desenvolvido para acompanhar as receitas e despesas.
+Uma aplicação de controle financeiro, desenvolvido para acompanhar as receitas e despesas. Essa aplicação utiliza o LocalStorage para armazenar as informações.
 
 ## :books: Funcionalidades
 
